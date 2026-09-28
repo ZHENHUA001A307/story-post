@@ -1,65 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-    <title>我的每日小说</title>
-    <link>https://github.com/ZHENHUA001A307/Story-Post</link>
-    <description>从 EPUB 自动生成的 RSS 订阅源</description>
-        <item>
+  <title>每日更新推送</title>
+  <link>https://github.com/ZHENHUA001A307/Story-Post</link>
+  <description>自动更新的 RSS 列表 (保留最近 15 条)</description>
+  <lastBuildDate>Mon, 28 Sep 2026 04:40:57 +0000</lastBuildDate>
+    <item>
+      <title><![CDATA[临高启明 第五十节 信用（二）]]></title>
+      <link>https://lingaoqiming.github.io/2/2-05000.html</link>
+      <description><![CDATA[]]></description>
+      <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-05000.html</guid>
+      <pubDate>Mon, 28 Sep 2026 04:40:57 +0000</pubDate>
+    </item>
+<item>
     <title>故事驿站 - 037 - 三愣 ［泰国］曾心.epub</title>
-    <description><![CDATA[<p style='color: #888;'>⏱ 预计阅读时间：7 分钟 (2075 字)</p><hr><div class="chapter" id="chapter">
-<div class="calibre4" id="calibre_pb_0"></div><h1 class="kindle-cn-heading1" id="calibre_pb_1">三愣　<span class="font1">［泰国］曾心</span></h1>
-<p class="calibre1"><span>外面下着毛毛细雨，一个干瘦佝偻的病人，头上遮着一张旧报纸，步履蹒跚地推开一间医务所的弹簧门。</span></p>
-<p class="calibre1"><span>正坐在案头看《黄帝内经》的李医师，抬头一看，见那新来的病人，正扯下那张湿漉漉的旧报纸，一时觉得，他挂在鼻梁上的那副黑眼镜显得特别大、特别耀眼。</span></p>
-<p class="calibre1"><span>“请坐！”</span></p>
-<p class="calibre1"><span>“嗯。”</span></p>
-<p class="calibre1"><span>“贵姓？”</span></p>
-<p class="calibre1"><span>“张亚牛。”</span></p>
-<p class="calibre1"><span>“多大岁？”</span></p>
-<p class="calibre1"><span>“五十九。”</span></p>
-<p class="calibre1"><span>李医师伸出三个指头给他诊脉。片刻，又叫他亮出舌头，然后说：“请把眼镜脱下！”</span></p>
-<p class="calibre1"><span>病人似乎没听到。</span></p>
-<p class="calibre1"><span>“请把眼镜脱下！”李医师再重复一遍。</span></p>
-<p class="calibre1"><span>只见病人那干瘪的右手举到耳边，颤颤巍巍地脱下黑眼镜。李医师不禁一愣，原来他是个“独眼龙”，右边凹陷的眼窝，却不见眼珠子。左边那呆滞的眼睛，只发出直勾勾无神的目光。</span></p>
-<p class="calibre1"><span>李医师张开嘴，想再问下去。却见病人举着颤抖的手，把黑眼镜挂回鼻梁上，嘴角搐起一阵凄酸的蠕动。</span></p>
-<p class="calibre1"><span>“哪里不舒服？”李医师用惯例的问诊道。</span></p>
-<p class="calibre1"><span>“没有一处舒服。”</span></p>
-<p class="calibre1"><span>“吃得下吗？”</span></p>
-<p class="calibre1"><span>他慨叹说：“做人真工（辛）苦，过去爱（要）吃无好吃（没得吃），现在有好吃唔（不）敢吃！”</span></p>
-<p class="calibre1"><span>病人答话绕着圈子，李医师心里却完全理解他的话意，问：“有消渴病吗？”病人点点头。</span></p>
-<p class="calibre1"><span>李医师安慰病人几句后，便伏案开处方。</span></p>
-<p class="calibre1"><span>“服药三天后，再来看一次。”李医师把一张处方交给病人。</span></p>
-<p class="calibre1"><span>“多少钱？”</span></p>
-<p class="calibre1"><span>“一百铢！”</span></p>
-<p class="calibre1"><span>“医生，八十可以吗？”他居然还起价来。</span></p>
-<p class="calibre1"><span>李医师不禁又一愣！觉得他当了二三十年医生，从来是医生说多少，病人就给多少，甚至有的慷慨的病人还多给，而还没遇上讨价还价的病人。这还是头一遭呀！李医师心里嘀咕着。</span></p>
-<p class="calibre1"><span>“可以吗？”</span></p>
-<p class="calibre1"><span>李医师不大自然地笑着，点头。</span></p>
-<p class="calibre1"><span>病人拿出一张一百铢。李医师还他二十铢。病人高兴地推开弹簧门走了。</span></p>
-<p class="calibre1"><span>在细雨中，李医师看着那个佝偻的病人，头上遮着旧报纸，步履蹒跚地挤上了一辆公共汽车。</span></p>
-<p class="calibre1"><span>李医师站在门口自忖：“也许他是个数米而炊的人！”</span></p>
-<p class="calibre1"><span>三天后，不见张亚牛再来看病，但是李医师偶然在另一个地方见到了他。</span></p>
-<p class="calibre1"><span>那天，李医师驾着轿车，到他三十年前读过的某所华文小学。这所学校已被封闭近半个世纪，最近又即将复办。许多校友和热爱华文的人士，闻讯都赶来捐款。</span></p>
-<p class="calibre1"><span>坐在捐献台前，正是那个佝偻且戴着一副黑眼镜的张亚牛。他正在讲述自己一段求学不幸的遭遇：“三十年前，我曾在这所学校读过两个月书，不幸学校被封。我们组织了华文学习小组，才读不到两个月便来抓人。老师被抓走了，我越墙逃跑时，天黑不见五指，一个铁钩，把我的右眼球勾坏了。”他讲到这里，声音低沉且沙哑，伤心地从耳边脱下那副黑眼镜。在座的人的眼光即刻聚成一串光束，焦点全落在他那只没有眼珠的凹眼窝里。</span></p>
-<p class="calibre1"><span>“读过书的人，那是无法理解没读过书的人的痛苦。我右眼瞎了，是痛苦的事。左眼虽能看见东西，但不识字，也好像瞎了一样。”也许他讲得太激动，血脉有点亢进，脸上不禁涨红起来。他又脱下眼镜，用手擦去滚动在左边眼里的泪珠。</span></p>
-<p class="calibre1"><span>“现在学校要复办，我报名参加学习，当个胡子学生。”</span></p>
-<p class="calibre1"><span>在座的人都瞪大眼睛，哑然失笑。</span></p>
-<p class="calibre1"><span>“最近，我把一块地皮卖了，想把部分钱捐给学校。”他边说边把放在脚边的皮箱拿上台面来。他那颤抖而干瘪的双手慢慢打开皮箱。</span></p>
-<p class="calibre1"><span>呵！是一箱崭新的一千铢的纸币。</span></p>
-<p class="calibre1"><span>李医师和在座的人都愣住了。</span></p>
-<p class="calibre1"><span>看着捐献台上成叠的千铢纸币，李医师低头看着自己手上已写好的支票，脸上有点泛红，觉得太少了。于是他提起笔来，在数字后面再添上两个零字，又在字旁签了名。</span></p>
-<p class="kindle-cn-para-no-indent1"><span class="kindle-cn-bold">［鉴赏］</span>　《三愣》是写人的。作者用先抑后扬的手法，使张亚牛这个人物丰满了起来，有血有肉，让人读后难忘。</p>
-<p class="calibre1">张亚牛在作品中刚出场时形象有点欠佳，一是独眼龙；二是口吃；三是付诊费时讨价还价。这确乎少见，何况诊费只是区区一百铢。如果说张亚牛到医务所看糖尿病是剧中人物的亮相，那么张亚牛在华文小学里的举动则是他的正剧了。李医师万万没有想到，这个瞎了一只眼的张亚牛三天前为了诊费少付二十铢也好的潦倒之人，竟然当场捐献了一箱崭新的一千铢一张的泰铢。这与三天前形成了鲜明的对比，反差之大令人吃惊。然而，这一切都是有缘由的。通过作者的追述，我们知道了张亚牛的独眼并不是打架斗殴做坏事造成的，而是为了学华文付出的代价。更令人感动的是，他三十年来矢志不渝，如今不但捐钱，还立志要当一名胡子学生，学好华文，读到这里，我们能不感动吗？能不为作者的文笔折服吗？！至此，张亚牛的形象一下子高大了起来。由于作者开头采用了抑的手法，人物的落差就大了，艺术的效果也就大了。先抑后扬塑造人物，确实不失为一种有效的笔法。</p>
-<p class="calibre1">在这篇作品里，读者往往感动于情节，而忽视了细节。其实，作者为了塑造张亚牛这个人物，在情节的编排上采用了抑在先、扬在后的艺术手段，在细节的配合上也动足了脑筋。比如张亚牛到医务所来时，天正下着毛毛细雨，他是顶着旧报纸来去的，如果是个身无分文的穷光蛋，那也许算不了什么；但张亚牛是个能捐出一箱子千元泰铢的人，却以旧报纸挡雨，并在公共汽车上挤来挤去，这细节的真实便产生了感人的力量。因为感人，在榜样力量的感召下，李医师也增加了捐款数。全篇行文自然、流畅，读来无任何矫揉造作，显示了作者非同一般的功力。</p>
-<p class="kindle-cn-para-right"><span>（凌鼎年）</span></p>
-</div>
-]]></description>
+    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (2075 字)&lt;/p&gt;&lt;hr&gt;&lt;div class="chapter" id="chapter"&gt;
+&lt;div class="calibre4" id="calibre_pb_0"&gt;&lt;/div&gt;&lt;h1 class="kindle-cn-heading1" id="calibre_pb_1"&gt;三愣　&lt;span class="font1"&gt;［泰国］曾心&lt;/span&gt;&lt;/h1&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;外面下着毛毛细雨，一个干瘦佝偻的病人，头上遮着一张旧报纸，步履蹒跚地推开一间医务所的弹簧门。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;正坐在案头看《黄帝内经》的李医师，抬头一看，见那新来的病人，正扯下那张湿漉漉的旧报纸，一时觉得，他挂在鼻梁上的那副黑眼镜显得特别大、特别耀眼。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“请坐！”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“嗯。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“贵姓？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“张亚牛。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“多大岁？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“五十九。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师伸出三个指头给他诊脉。片刻，又叫他亮出舌头，然后说：“请把眼镜脱下！”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;病人似乎没听到。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“请把眼镜脱下！”李医师再重复一遍。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;只见病人那干瘪的右手举到耳边，颤颤巍巍地脱下黑眼镜。李医师不禁一愣，原来他是个“独眼龙”，右边凹陷的眼窝，却不见眼珠子。左边那呆滞的眼睛，只发出直勾勾无神的目光。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师张开嘴，想再问下去。却见病人举着颤抖的手，把黑眼镜挂回鼻梁上，嘴角搐起一阵凄酸的蠕动。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“哪里不舒服？”李医师用惯例的问诊道。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“没有一处舒服。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“吃得下吗？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;他慨叹说：“做人真工（辛）苦，过去爱（要）吃无好吃（没得吃），现在有好吃唔（不）敢吃！”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;病人答话绕着圈子，李医师心里却完全理解他的话意，问：“有消渴病吗？”病人点点头。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师安慰病人几句后，便伏案开处方。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“服药三天后，再来看一次。”李医师把一张处方交给病人。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“多少钱？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“一百铢！”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“医生，八十可以吗？”他居然还起价来。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师不禁又一愣！觉得他当了二三十年医生，从来是医生说多少，病人就给多少，甚至有的慷慨的病人还多给，而还没遇上讨价还价的病人。这还是头一遭呀！李医师心里嘀咕着。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“可以吗？”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师不大自然地笑着，点头。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;病人拿出一张一百铢。李医师还他二十铢。病人高兴地推开弹簧门走了。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;在细雨中，李医师看着那个佝偻的病人，头上遮着旧报纸，步履蹒跚地挤上了一辆公共汽车。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师站在门口自忖：“也许他是个数米而炊的人！”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;三天后，不见张亚牛再来看病，但是李医师偶然在另一个地方见到了他。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;那天，李医师驾着轿车，到他三十年前读过的某所华文小学。这所学校已被封闭近半个世纪，最近又即将复办。许多校友和热爱华文的人士，闻讯都赶来捐款。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;坐在捐献台前，正是那个佝偻且戴着一副黑眼镜的张亚牛。他正在讲述自己一段求学不幸的遭遇：“三十年前，我曾在这所学校读过两个月书，不幸学校被封。我们组织了华文学习小组，才读不到两个月便来抓人。老师被抓走了，我越墙逃跑时，天黑不见五指，一个铁钩，把我的右眼球勾坏了。”他讲到这里，声音低沉且沙哑，伤心地从耳边脱下那副黑眼镜。在座的人的眼光即刻聚成一串光束，焦点全落在他那只没有眼珠的凹眼窝里。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“读过书的人，那是无法理解没读过书的人的痛苦。我右眼瞎了，是痛苦的事。左眼虽能看见东西，但不识字，也好像瞎了一样。”也许他讲得太激动，血脉有点亢进，脸上不禁涨红起来。他又脱下眼镜，用手擦去滚动在左边眼里的泪珠。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“现在学校要复办，我报名参加学习，当个胡子学生。”&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;在座的人都瞪大眼睛，哑然失笑。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;“最近，我把一块地皮卖了，想把部分钱捐给学校。”他边说边把放在脚边的皮箱拿上台面来。他那颤抖而干瘪的双手慢慢打开皮箱。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;呵！是一箱崭新的一千铢的纸币。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;李医师和在座的人都愣住了。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="calibre1"&gt;&lt;span&gt;看着捐献台上成叠的千铢纸币，李医师低头看着自己手上已写好的支票，脸上有点泛红，觉得太少了。于是他提起笔来，在数字后面再添上两个零字，又在字旁签了名。&lt;/span&gt;&lt;/p&gt;
+&lt;p class="kindle-cn-para-no-indent1"&gt;&lt;span class="kindle-cn-bold"&gt;［鉴赏］&lt;/span&gt;　《三愣》是写人的。作者用先抑后扬的手法，使张亚牛这个人物丰满了起来，有血有肉，让人读后难忘。&lt;/p&gt;
+&lt;p class="calibre1"&gt;张亚牛在作品中刚出场时形象有点欠佳，一是独眼龙；二是口吃；三是付诊费时讨价还价。这确乎少见，何况诊费只是区区一百铢。如果说张亚牛到医务所看糖尿病是剧中人物的亮相，那么张亚牛在华文小学里的举动则是他的正剧了。李医师万万没有想到，这个瞎了一只眼的张亚牛三天前为了诊费少付二十铢也好的潦倒之人，竟然当场捐献了一箱崭新的一千铢一张的泰铢。这与三天前形成了鲜明的对比，反差之大令人吃惊。然而，这一切都是有缘由的。通过作者的追述，我们知道了张亚牛的独眼并不是打架斗殴做坏事造成的，而是为了学华文付出的代价。更令人感动的是，他三十年来矢志不渝，如今不但捐钱，还立志要当一名胡子学生，学好华文，读到这里，我们能不感动吗？能不为作者的文笔折服吗？！至此，张亚牛的形象一下子高大了起来。由于作者开头采用了抑的手法，人物的落差就大了，艺术的效果也就大了。先抑后扬塑造人物，确实不失为一种有效的笔法。&lt;/p&gt;
+&lt;p class="calibre1"&gt;在这篇作品里，读者往往感动于情节，而忽视了细节。其实，作者为了塑造张亚牛这个人物，在情节的编排上采用了抑在先、扬在后的艺术手段，在细节的配合上也动足了脑筋。比如张亚牛到医务所来时，天正下着毛毛细雨，他是顶着旧报纸来去的，如果是个身无分文的穷光蛋，那也许算不了什么；但张亚牛是个能捐出一箱子千元泰铢的人，却以旧报纸挡雨，并在公共汽车上挤来挤去，这细节的真实便产生了感人的力量。因为感人，在榜样力量的感召下，李医师也增加了捐款数。全篇行文自然、流畅，读来无任何矫揉造作，显示了作者非同一般的功力。&lt;/p&gt;
+&lt;p class="kindle-cn-para-right"&gt;&lt;span&gt;（凌鼎年）&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
     <pubDate>Sat, 26 Sep 2026 02:39:09 +0000</pubDate>
     <guid isPermaLink="false">37</guid>
 </item>
 <item>
-      <title><![CDATA[临高启明 第四十七节 用工制度（一）]]></title>
+      <title>临高启明 第四十七节 用工制度（一）</title>
       <link>https://lingaoqiming.github.io/2/2-04700.html</link>
-      <description><![CDATA[]]></description>
+      <description />
       <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-04700.html</guid>
       <pubDate>Mon, 21 Sep 2026 04:15:01 +0000</pubDate>
     </item>
@@ -273,39 +281,5 @@
       <guid isPermaLink="false">https://lingaoqiming.github.io/2/2-02600.html</guid>
       <pubDate>Mon, 17 Aug 2026 01:04:50 +0000</pubDate>
     </item>
-<item>
-    <title>故事驿站 - 031 - 大小通吃 ［印度尼西亚］林万里.epub</title>
-    <description>&lt;p style='color: #888;'&gt;⏱ 预计阅读时间：7 分钟 (1986 字)&lt;/p&gt;&lt;hr&gt;&lt;div class="chapter" id="chapter"&gt;
-&lt;div class="calibre4" id="calibre_pb_0"&gt;&lt;/div&gt;&lt;h1 class="kindle-cn-heading1" id="calibre_pb_1"&gt;大小通吃　&lt;span class="font1"&gt;［印度尼西亚］林万里&lt;/span&gt;&lt;/h1&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;上午，诊室的门铃响了两下。我就知道看病的人来了。我一开诊室的门，就看到候诊室里坐着三个人。左边的长板凳上坐着两位年龄大约都在四十上下的女人。其中一位愁容满面，散发不梳，身披牛仔夹克，我暂时称她为A；另一位呆头傻脑，眼屎未除，颈项上缚一条灰色围巾，我姑且叫她为B。这两位污垢满脸的女人，从她们邋遢的样子，一眼就能看出是病魔缠身的人。她们的对面，右边的铁椅上坐着一位明眸皓齿的红装女人，衣裙、嘴唇和指甲全是红红的，光彩夺目。看上去三十岁左右，端庄、秀气、俏丽。我敢断定地说，这种女人肯定人见人爱。她不像是有病的人。凭经验我心里猜想，她八成是陪送A、B来的。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;人们常说宁可做导演，不要做医生。因为导演是对着漂亮美丽的明星；而医生总是对着愁眉苦脸的病人。今早我可走好运了，总算对着一位美丽的女人。她比明星还要明星。我注视着她，心里美滋滋地十分舒坦。医生和常人一样都喜欢欣赏美的东西。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“医生，早安。”一见到我立在门旁，那一位“全是红红的”便开口说，她不但人长得妩媚，声音也十分悦耳。说了“早安”以后，她转过头对着A、B说：“你们两位先看吧，你们一起进去吧。”回头又对我说：“医生，她们是我亲戚。先给她们看吧，她们都病得不轻。等下轮到我，诊费跟我的一起算，由我来付。”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;瞧，这美丽的女人，心地多好！&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;A、B进来了，我心不在焉地给她们检查了一下，发现A是患了流行性感冒，B是吃错东西拉肚子。我给她们各打了一针并配了药方，前后不到几分钟就解决了A、B的问题。她们似乎发现我给她们看病时的心猿意马，也发觉我是要尽快地把她们打发走。老实说，这时候我脑海里想的是在候诊室正在候诊的那位“全是红红的”，好让她快点进来，好让我好好欣赏。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;当我开门把A、B送走，正要招呼那位“全是红红的”时候，发现我的候诊室里空无一人。开始我以为她上厕所去了。这时厕所的门敞开着，证明里头无人。我走去巡查，里头空空如也。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;我便问A：“你们的亲戚怎么还没看病就不见人影了？”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“什么我亲戚？我根本不认识她，刚才在你这里初次见面。”A不悦地回答道。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“那么你们两位是亲戚吗？”我指着A、B问道。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“我们三个人，谁都不认识谁，怎么会是亲戚呢！”B答道。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“你们跟她是亲戚或者不是，都不要紧。她不想给我看也没关系。她走了，那么诊费你们自己付好了。每人一万五千盾。”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“诊费我们已经付了。”A、B异口同声地答道。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“是什么时候付给我的？”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“不是付给你，我们已经付给她了。”A答道。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“你们为什么要付给她？”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“刚才我们等你看病的时候。她走进来，问我们在这里看病，一次要付多少钱，我说看一次要一万五千盾。她说这里的医生是她爸爸的好朋友。她给我们省钱，要我们假认是她亲戚。诊费有折扣，说我们每个人交给她一万盾就够了。我们心里想，这个人真好，帮我们每人省五千盾，我们就把钱交给了她。”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“你们就相信了她的话，钱就给她了？”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“是呀！她还说，一个人看病跟三个人一起看病，收费应该不同，就像批发价钱跟零售价钱不同是一样的道理。刚才你也听到了，诊费全部由她来付的。”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;我听了挠挠头，无可奈何地对A、B说：&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;“你们可以走了，因为你们都付了诊费。”&lt;/span&gt;&lt;/p&gt;
-&lt;p class="calibre1"&gt;&lt;span&gt;好家伙，大小通吃。&lt;/span&gt;&lt;/p&gt;
-&lt;p class="kindle-cn-para-no-indent1"&gt;&lt;span class="kindle-cn-bold"&gt;［鉴赏］&lt;/span&gt;　读题目《大小通吃》以为是写赌博的题材，通读全文后才知写了一个女骗子的行骗过程。不管是大骗子、小骗子，要想骗术得逞，首先要了解对方的心理，抓住其软档，或者说死穴，这样就容易得手了。在文中，那位漂亮的女骗子就是抓住医生色迷迷的心理展开其骗术的。&lt;/p&gt;
-&lt;p class="calibre1"&gt;作品采用了抽丝剥茧的手法，将女骗子的行骗之术一步步地描绘出来，让读者多一点社会经验，多一点识别骗子的眼力。作品的故事构架是骗子行骗，但重点却落在如何识人上，即千万不要被表象、被外貌所蒙蔽。俗话说，人不可貌相，漂亮的脸蛋不一定有善良的心。这位医生之所以受骗吃亏，就是因为被女骗子漂亮的外貌弄得神魂颠倒，以致直到受了骗才醒悟。在这篇作品里，受骗的其实不仅仅是医生，两位看病女人实在也是受骗者。为什么会大小通吃，全部受骗呢？关键还是心有贪欲，两位看病女人想贪点小便宜，省下五千盾；医生呢，多少有点色欲，想与漂亮女人来个面对面的零距离接触。结果呢，应了中国的一句老话：花钱买教训。生活中的小插曲，写出了生活哲理，写出了社会教训，让读者有所悟、有所得。这样的作品，确实是不错的。&lt;/p&gt;
-&lt;p class="calibre1"&gt;中国有句老话“戏法人人会变，各有巧妙不同”，那么套用这句话就是故事人人会编，各有高招不同。好的故事不但要编得自圆其说，还要编得天衣无缝。这篇作品用第一人称叙述，用作者的视角叙写，增加了故事的临场感与真实性。读者随着作者所看到的、所听到的，仿佛也如此经历了一回，这样，就不觉得作者在编故事，而是仿佛在听作者拉家常，在作者娓娓的叙述中，既听到了生活中的一个小插曲，又得到了某些警示。读这样一篇微型小说，值！&lt;/p&gt;
-&lt;p class="kindle-cn-para-right"&gt;&lt;span&gt;（凌鼎年）&lt;/span&gt;&lt;/p&gt;
-&lt;/div&gt;
-</description>
-    <pubDate>Sat, 15 Aug 2026 00:42:04 +0000</pubDate>
-    <guid isPermaLink="false">31</guid>
-</item>
 </channel>
 </rss>
